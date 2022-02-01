@@ -195,7 +195,7 @@ body {
 	min-height: 250px;
 	margin-bottom: 15%;
 	padding: 0 28px;
-	background-image: url(images/features-1-bg.png);
+	background-image: url("../images/features-1-bg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -203,11 +203,11 @@ body {
 }
 
 .features-item:nth-child(2) {
-	background-image: url(images/features-2-bg.png);
+	background-image: url("../images/features-2-bg.png");
 }
 
 .features-item:nth-child(3) {
-	background-image: url(images/features-3-bg.png);
+	background-image: url("../images/features-3-bg.png");
 }
 
 .features-item-inner {
