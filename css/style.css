@@ -22,7 +22,7 @@ body {
 	padding-top: 50px;
 	background-image:
 	linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%),
-	url(../images/background-img.png);
+	url(images/background-img.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -195,7 +195,7 @@ body {
 	min-height: 250px;
 	margin-bottom: 15%;
 	padding: 0 28px;
-	background-image: url(../images/features-1-bg.png);
+	background-image: url(images/features-1-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -203,11 +203,11 @@ body {
 }
 
 .features-item:nth-child(2) {
-	background-image: url(../images/features-2-bg.png);
+	background-image: url(images/features-2-bg.png);
 }
 
 .features-item:nth-child(3) {
-	background-image: url(../images/features-3-bg.png);
+	background-image: url(images/features-3-bg.png);
 }
 
 .features-item-inner {
@@ -307,21 +307,21 @@ body {
 	height: 80px;
 	margin-bottom: 20px;
 	content: "";
-	background-image: url("../images/icon-cloud.svg");
+	background-image: url("images/icon-cloud.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .technology-item-title-secure::before {
-	background-image: url(../images/icon-secure.svg);
+	background-image: url(images/icon-secure.svg);
 }
 
 .technology-item-title-pdf::before {
-	background-image: url(../images/icon-PDF.svg);
+	background-image: url(images/icon-PDF.svg);
 }
 
 .technology-item-title-csv::before {
-	background-image: url(../images/icon-CSV.svg);
+	background-image: url(images/icon-CSV.svg);
 }
 
 .technology-descr {
